@@ -51,10 +51,43 @@ div p{
 }
 
 .table-element{
-    padding: 50px;
+    padding: 20px;
 
 }
 
-#table-body{
-    background-color: red;
+.table-riga1{
+    background-color: white;
+}
+
+#table-riga2{
+    background-color: turquoise;
+}
+
+.interessi{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: gray;
+    font-size: 100%;
+    font-weight:bolder;
+}
+
+.prima-immagine{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    font-size: 25px;
+    color: lightgray;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.seconda-immagine{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    font-size: 25px;
+    color: lightgray;
+    text-align: center;
 }
