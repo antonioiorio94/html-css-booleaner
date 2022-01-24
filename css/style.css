@@ -28,3 +28,20 @@
     margin-top: -10px;
     font-size: 12px;
 }
+
+#tim1 {
+    width: 50%;
+}
+
+#tim2 {
+    width: 50%;
+}
+
+div p{
+    font-size: 10px;
+    margin-bottom: -10px;
+}
+
+#yellow-text{
+    background-color: sandybrown;
+}
