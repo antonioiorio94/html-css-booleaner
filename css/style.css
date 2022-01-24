@@ -30,11 +30,13 @@
 }
 
 #tim1 {
-    width: 50%;
+    width: 700px;
+    height: 500px;
 }
 
 #tim2 {
-    width: 50%;
+    width: 600px;
+    height: 500px;
 }
 
 div p{
