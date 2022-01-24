@@ -45,3 +45,16 @@ div p{
 #yellow-text{
     background-color: sandybrown;
 }
+
+#table-head{
+    background-color:#4ea0ff;
+}
+
+.table-element{
+    padding: 50px;
+
+}
+
+#table-body{
+    background-color: red;
+}
