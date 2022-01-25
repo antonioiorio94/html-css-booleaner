@@ -48,6 +48,10 @@ div p{
     background-color: sandybrown;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 #table-head{
     background-color:#4ea0ff;
 }
@@ -57,12 +61,12 @@ div p{
 
 }
 
-.table-riga1{
-    background-color: white;
+.table-description{
+    width: 50%;
 }
 
-#table-riga2{
-    background-color: turquoise;
+.odd{
+    background-color: cadetblue;
 }
 
 .interessi{
